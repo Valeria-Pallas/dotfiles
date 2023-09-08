@@ -62,3 +62,5 @@
 [user]
 	email = valerianpallas@gmail.com
 	name = Valeria-Pallas
+[credential]
+	helper = cache
