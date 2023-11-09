@@ -64,3 +64,7 @@
 	name = Valeria-Pallas
 [credential]
 	helper = cache
+[merge]
+	tool = vscode
+[mergetool "vscode"]
+	cmd = "code --wait "
